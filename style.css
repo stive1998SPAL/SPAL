@@ -1,0 +1,53 @@
+body {
+  text-align:justify;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+}
+
+nav{
+  height:30px;
+  margin: 0px;
+  width: 100%;
+  font-size: 14px;
+  background-color: #e6e6e6;
+  text-align: center;
+  padding: 14px;
+}
+
+nav a {
+  padding: 3%;
+  display:inline;
+  font-size: 18px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  color: #666666;
+}
+
+a:hover {
+  color: #e6ac00;
+}
+
+section{
+  top:130px; 
+  width: 100%;
+  margin: 0px;
+  padding: 10px;
+  background-color: #cccccc;
+}
+
+footer {
+  width: 100%;
+  text-align:center;
+  padding: 5px;
+  background-color: black;
+  color:white;
+}
